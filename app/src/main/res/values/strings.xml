@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Travel Cost Mangager</string>
+    <string name="photo_description">nice photo</string>
+    <string name="add_trip_label">Enter a trip name</string>
+    <string name="add_trip_button">Add the trip</string>
+    <string name="title_activity_single_trip">SingleTripActivity</string>
+    <string name="tab_text_1">Payments</string>
+    <string name="tab_text_2">Persons</string>
+    <string name="tab_text_3">Summary</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_trip_list">TripListActivity</string>
+    <string name="trip_name">Bieszczady</string>
+    <string name="trip_date">Maj 2018</string>
+</resources>
